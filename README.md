@@ -1,16 +1,13 @@
-### Hi there 👋 I am Roberto
+### Hi there 👋 I am Roberto!
+---
 
-<!--
-**robertofierimonte/robertofierimonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Machine Learning Engineer based in the UK who is passionate about delivering end-to-end ML solutions at scale on the cloud.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at British Telecom (BT), building and productionising ML models on Google Cloud Platform (GCP)
+- 🌱 I’m currently learning MLFlow, Apache Spark, and Apache Beam
+- 👯 I’m looking to collaborate on projects about audio data
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
