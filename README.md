@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Roberto 🧔‍♂️!
+### Hi there 👋 I'm Roberto 👨!
 ---
 
 I am a Machine Learning Engineer based in the UK who is passionate about delivering end-to-end ML solutions at scale on the cloud.
