@@ -7,7 +7,7 @@ I am a Machine Learning Engineer based in the UK who is passionate about deliver
 - 🌱 I’m currently learning MLFlow, Apache Spark, and Apache Beam
 - 👯 I’m looking to collaborate on projects about audio data
 - 📫 How to reach me: [roberto.fierimonte@gmail.com](mailto:roberto.fierimonte@gmail.com)
-- 💻 Where to read more about me: [robertofierimonte.github.io](https://robertofierimonte.github.io)
+- 💻 Where to read more about me: [robertofierimonte.github.io](https://robertofierimonte.com)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
