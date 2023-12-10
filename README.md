@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Roberto 👨!
 ---
 
-I am a Machine Learning Engineer based in the Finland who is passionate about delivering end-to-end ML solutions at scale on the cloud.
+I am a Machine Learning Engineer based in Helsinki, Finland who is passionate about delivering end-to-end ML solutions at scale on the cloud.
 
 - 🔭 I’m currently working at [Solita](https://www.solita.fi/), building and productionising ML models on for various clients
 - 🌱 I’m currently learning MLFlow, Apache Spark, and Apache Beam
